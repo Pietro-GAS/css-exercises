@@ -34,7 +34,7 @@ body {
   padding: 16px;
 }
 
-.sidebar li {
+.sidebar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
