@@ -21,6 +21,8 @@ body {
   background: #eee;
   color: darkmagenta;
   justify-self: flex-end;
+  text-align: center;
+  line-height: 72px;
 }
 
 .sidebar {
